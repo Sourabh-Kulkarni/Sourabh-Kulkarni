@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sourabh-Kulkarni
 - 👀 I’m interested in React.JS Development
-- 🌱 I’m currently working as a React Front end developer
+- 🌱 I’m currently working as a React Front End Developer
 - 💞️ I’m exploring web development
 - 📫 How to reach me: E-Mail ID: sourabhmk96@gmail.com
 
