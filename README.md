@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sourabh-Kulkarni
 - 👀 I’m interested in React.JS Development
-- 🌱 I’m currently learning SharePoint Framework and Front end development
-- 💞️ I’m looking to collaborate on Microsoft Teams
+- 🌱 I’m currently working as a React Front end developer
+- 💞️ I’m exploring web development
 - 📫 How to reach me: E-Mail ID: sourabhmk96@gmail.com
 
 <!---
